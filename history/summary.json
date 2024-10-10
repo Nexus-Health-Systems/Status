@@ -1,23 +1,5 @@
 [
   {
-    "name": "Meditech",
-    "url": "https://nee-ext.nexan.me",
-    "icon": "https://icons.duckduckgo.com/ip3/nee-ext.nexan.me.ico",
-    "slug": "meditech",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 875,
-    "timeWeek": 875,
-    "timeMonth": 875,
-    "timeYear": 875,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Microsoft 365",
     "url": "https://microsoft365.com",
     "icon": "https://icons.duckduckgo.com/ip3/microsoft365.com.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
