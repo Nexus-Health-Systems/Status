@@ -3,8 +3,6 @@ owner: Nexus-Health-Systems # Your GitHub organization or username, where this r
 repo: Status # The name of this repository
 
 sites:
-  - name: Meditech
-    url: https://nee-ext.nexan.me
   - name: Microsoft 365
     url: https://microsoft365.com
 
